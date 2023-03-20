@@ -1,0 +1,46 @@
+.container {
+  background-color: #07080c;
+  font-family: 'roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.sub-heading {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.description {
+  color: #cbd5e1;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+.speed-button {
+  background-color: #0b69ff;
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+}
+.break-button {
+  border-color: #94a3b8;
+  color: #94a3b8;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+}
